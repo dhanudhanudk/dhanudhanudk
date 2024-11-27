@@ -49,11 +49,11 @@ expertise, and the exciting projects I've worked on.
 
 ## 🔧 Skills & Tools
 
-- **Languages:** Python
-- **Frameworks:** Django, Django REST Framework
-- **Database Systems:** PostgreSQL, MongoDB, Redis
-- **Real-Time Communication:** WebSockets, Django Channels
-- **Version Control:** Git, GitHub
+- **Languages:** Python **
+- **Frameworks:** Django, Django REST Framework **
+- **Database Systems:** PostgreSQL, MongoDB, MySQL **
+- **Real-Time Communication:** WebSockets, Django Channels **
+- **Version Control:** Git, GitHub **
 
 ## 🌟 My Goals
 
